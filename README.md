@@ -6,7 +6,7 @@ a
 Links
 --------------------
 
-* __[Discord](https://discord.gg/5PzMkyK)__
+* __[Discord](https://discord.gg/2s9AQ89b)__
 
 Contributing
 ------------
