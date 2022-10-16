@@ -1,2 +1,0 @@
-<!-- ONLY POST ISSUES WITH A CLEAN SERVER ON THE LATEST VERSION -->
-### Expected Behavior
